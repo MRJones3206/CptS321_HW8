@@ -1,0 +1,5 @@
+﻿[*.cs]
+
+# SA1101: Prefix local calls with this
+# No. Bad. Stop it. You don't need to do this.
+dotnet_diagnostic.SA1101.severity = none

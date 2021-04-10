@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spreadsheet Engine", "Spreadsheet Engine.csproj", "{DB919AF1-9FB4-4823-82B2-1F7207ED69BE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpreadsheetEngineTesting", "..\SpreadsheetEngineTesting\SpreadsheetEngineTesting.csproj", "{C5AB27B9-5E65-40B9-BEF6-9284C2296C6C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{51A2ACDA-53DE-4C34-88D0-DA9825197B01}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB919AF1-9FB4-4823-82B2-1F7207ED69BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB919AF1-9FB4-4823-82B2-1F7207ED69BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB919AF1-9FB4-4823-82B2-1F7207ED69BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB919AF1-9FB4-4823-82B2-1F7207ED69BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5AB27B9-5E65-40B9-BEF6-9284C2296C6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5AB27B9-5E65-40B9-BEF6-9284C2296C6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5AB27B9-5E65-40B9-BEF6-9284C2296C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5AB27B9-5E65-40B9-BEF6-9284C2296C6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B619CAB-2ACA-4DCA-92E0-7E93AE28D6F8}
+	EndGlobalSection
+EndGlobal
